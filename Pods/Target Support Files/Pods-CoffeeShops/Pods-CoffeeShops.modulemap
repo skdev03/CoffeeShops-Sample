@@ -1,0 +1,6 @@
+framework module Pods_CoffeeShops {
+  umbrella header "Pods-CoffeeShops-umbrella.h"
+
+  export *
+  module * { export * }
+}
